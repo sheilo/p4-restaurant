@@ -28,15 +28,55 @@ img {
 	border: none;
 }
 
-.heading {
+.bold{
+	font-family: 'Raleway', sans-serif;
+	font-weight: 600;
+}
+
+.textbg {
 	background: rgb(255, 255, 255);
 }
 
 
-.yellow {
-	width: 10px;
-	height: 10px;
-	color: #FFFF83;
+.yellow, 
+.blue, 
+.green, 
+.red {
+	margin-top: 3px;
+	width: 40px;
+	height: 15px;
+	float: right;
+}
+
+.yellow{
+	background: #FFCC00;
+}
+
+.blue{
+	background: #47DAFF;
+}
+
+.green{
+	background: #00CC00;
+}
+
+.red {
+	background: #E60000;
+}
+
+/*mobile*/
+@media (max-width: 480px){
+
+}
+
+/*tablet*/
+@media (min-width: 768px){
+
+}
+
+/*desktop*/
+@media (min-width: 992px){
+
 }
 
 /**/

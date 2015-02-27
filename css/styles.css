@@ -1,0 +1,42 @@
+/*font-family: 'Julius Sans One', sans-serif;
+font-family: 'Raleway', sans-serif;*/
+
+/*BODY*/
+body {
+	background: rgba(255, 255, 255, .3) url("../img/bgpattern.png") repeat;
+}
+
+body li {
+	list-style: none;
+}
+
+h1, 
+h2, 
+h3, 
+h4 {
+	font-family: 'Julius Sans One', sans-serif;
+}
+
+p, 
+li {
+	font-family: 'Raleway', sans-serif;
+}
+
+img {
+	margin: none;
+	padding: none;
+	border: none;
+}
+
+.heading {
+	background: rgb(255, 255, 255);
+}
+
+
+.yellow {
+	width: 10px;
+	height: 10px;
+	color: #FFFF83;
+}
+
+/**/
